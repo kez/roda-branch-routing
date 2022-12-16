@@ -1,4 +1,4 @@
-# routes/api/v2/teams.rb
+# routes/api/v2/users.rb
 class App
   plugin :json, classes: [Array, Hash]
 
